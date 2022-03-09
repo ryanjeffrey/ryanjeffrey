@@ -24,17 +24,20 @@ I am a Software Engineer with a focus on the Front End. My background is in desi
 ## Rapidfire  
 <table align="center"><tr><td valign="top" width="60%">
 
-- 🧠 I’m currently learning [Three.js](https://threejs-journey) with [Bruno Simon](https://github.com/brunosimon)  
+- 🧠 I’m currently learning [Three.js](https://threejs-journey) with **[Bruno Simon](https://github.com/brunosimon)** 
   
 
 - 📚 Reading:<br/>
-You Are Here • Thich Nhat Hanh<br/> 
-Financial Freedom • Grant Sabatier<br/>
-The Infinite Game • Simon Sinek<br/>
-Ask Your Developer • Jeff Lawson  
+You Are Here • **Thich Nhat Hanh**<br/> 
+Financial Freedom • **Grant Sabatier**<br/>
+The Infinite Game • **Simon Sinek**<br/>
+Ask Your Developer • **Jeff Lawson**  
   
 
-- ⚡ Fun fact: I'm pretty good at making pancakes 🥞  
+- ⚡ Fun fact: I'm pretty good at making pancakes 🥞
+  
+
+- 🗣 Quotable: *"The process of empowerment cannot be simplistically defined in accordance with our own particular class interests. We must learn to lift as we climb."* **Angela Davis**
 
 
 </td><td valign="center" width="40%">
