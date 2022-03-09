@@ -22,7 +22,7 @@ I am a Software Engineer with a focus on the Front End. My background is in desi
 
 
 ## Rapidfire  
-<table align="center"><tr><td valign="top" width="70%">
+<table align="center"><tr><td valign="top" width="60%">
 
 - 🧠 I’m currently learning [Three.js](https://threejs-journey) with [Bruno Simon](https://github.com/brunosimon)  
   
@@ -37,7 +37,7 @@ Ask Your Developer • Jeff Lawson
 - ⚡ Fun fact: I'm pretty good at making pancakes 🥞  
 
 
-</td><td valign="center" width="30%">
+</td><td valign="center" width="40%">
 
 <div align="center">
 <img src="https://media.giphy.com/media/g79am6uuZJKSc/giphy.gif" align="center" style="width: 100%" />
