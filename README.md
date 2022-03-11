@@ -37,7 +37,8 @@ Ask Your Developer • **Jeff Lawson**
 - ⚡ Fun fact: I'm pretty good at making pancakes 🥞
   
 
-- 🗣 Quotable: *"The process of empowerment cannot be simplistically defined in accordance with our own particular class interests. We must learn to lift as we climb."* **Angela Davis**
+- 🗣 Quotable: 
+  > *"The process of empowerment cannot be simplistically defined in accordance with our own particular class interests. We must learn to lift as we climb."* **Angela Davis**
 
 
 </td><td valign="center" width="40%">
@@ -59,7 +60,7 @@ Ask Your Developer • **Jeff Lawson**
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="40" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="40" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="40" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/amazonwebservices-original-wordmark.svg" alt="AWS" height="40" />  
+<img style="margin: 10px" src="https://raw.githubusercontent.com/Thomas-George-T/Thomas-George-T/master/assets/aws.svg" alt="AWS" height="30" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/docker-original-wordmark.svg" alt="Docker" height="40" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" alt="TypeScript" height="40" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/sass-original.svg" alt="Sass" height="40" />  
