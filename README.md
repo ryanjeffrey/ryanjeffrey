@@ -15,7 +15,7 @@
 
 
 ### Glad to see you here!  
-I am a Software Engineer with a focus on the Front End. My background is in design and startup management, but when I started coding I found my calling. In 2021 I founded a development studio called [Conjure](https://conjure.company). We do the heavy lifting to make digital experiences feel effortless. As if by magic.  
+I am a Software Engineer with a focus on the Front End. My background is in design and startup management, but when I started coding I found my calling. In 2021 I founded a development studio called [Conjure](https://conjure.company). We do the heavy lifting to make digital experiences feel effortless.  
   
 
 <br/>  
@@ -24,11 +24,10 @@ I am a Software Engineer with a focus on the Front End. My background is in desi
 ## Rapidfire
 
 <div align="center">
-<img src="https://media.giphy.com/media/g79am6uuZJKSc/giphy.gif" align="center" style="width: 100%" />
+<img src="https://media.giphy.com/media/g79am6uuZJKSc/giphy.gif" align="center" style="width: 80%" />
 </div>
 
-
-- 🧠 I’m currently learning [Three.js](https://threejs-journey) with **[Bruno Simon](https://github.com/brunosimon)** 
+- 🧠 I’m currently learning [Three.js](https://threejs-journey.com) with **[Bruno Simon](https://github.com/brunosimon)** 
   
 
 - 📚 Reading:<br/>
@@ -44,7 +43,6 @@ Ask Your Developer • **Jeff Lawson**
 - 🗣 Quotable: 
   > *"The process of empowerment cannot be simplistically defined in accordance with our own particular class interests. We must learn to lift as we climb."* <br />**Angela Davis**
 
-  
 
 <br/>  
 
