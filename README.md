@@ -21,15 +21,19 @@ I am a Software Engineer with a focus on the Front End. My background is in desi
 <br/>  
 
 
-## Rapidfire  
-<table align="center"><tr><td valign="top" width="60%">
+## Rapidfire
+
+<div align="center">
+<img src="https://media.giphy.com/media/g79am6uuZJKSc/giphy.gif" align="center" style="width: 100%" />
+</div>
+
 
 - 🧠 I’m currently learning [Three.js](https://threejs-journey) with **[Bruno Simon](https://github.com/brunosimon)** 
   
 
 - 📚 Reading:<br/>
 You Are Here • **Thich Nhat Hanh**<br/> 
-Financial Freedom • **Grant Sabatier**<br/>
+Transformed • **Remi Adeleke**<br/>
 The Infinite Game • **Simon Sinek**<br/>
 Ask Your Developer • **Jeff Lawson**  
   
@@ -38,17 +42,9 @@ Ask Your Developer • **Jeff Lawson**
   
 
 - 🗣 Quotable: 
-  > *"The process of empowerment cannot be simplistically defined in accordance with our own particular class interests. We must learn to lift as we climb."* **Angela Davis**
+  > *"The process of empowerment cannot be simplistically defined in accordance with our own particular class interests. We must learn to lift as we climb."* <br />**Angela Davis**
 
-
-</td><td valign="center" width="40%">
-
-<div align="center">
-<img src="https://media.giphy.com/media/g79am6uuZJKSc/giphy.gif" align="center" style="width: 100%" />
-</div>  
-
-
-</td></tr></table>  
+  
 
 <br/>  
 
