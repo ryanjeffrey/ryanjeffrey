@@ -32,7 +32,7 @@ I am a Software Engineer with a focus on the Front End. My background is in desi
 
 - 📚 Reading:<br/>
 You Are Here • **Thich Nhat Hanh**<br/> 
-Transformed • **Remi Adeleke**<br/>
+Better Than Before • **Gretchen Rubin**<br/>
 The Infinite Game • **Simon Sinek**<br/>
 Ask Your Developer • **Jeff Lawson**  
   
@@ -54,7 +54,7 @@ Ask Your Developer • **Jeff Lawson**
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="40" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="40" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="40" />  
-<img style="margin: 10px" src="https://raw.githubusercontent.com/Thomas-George-T/Thomas-George-T/master/assets/aws.svg" alt="AWS" height="30" />  
+<img style="margin: 10px" src="https://raw.githubusercontent.com/Thomas-George-T/Thomas-George-T/master/assets/aws.svg" alt="AWS" height="20" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/docker-original-wordmark.svg" alt="Docker" height="40" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" alt="TypeScript" height="40" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/sass-original.svg" alt="Sass" height="40" />  
