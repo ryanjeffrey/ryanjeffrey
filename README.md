@@ -1,9 +1,5 @@
 ## Hi, I'm Ryan!  
   
-
-<a href="https://github.com/ryanjeffrey" target="_blank">
-  <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
-</a>
 <a href="https://linkedin.com/in/ryan-smith-219614230" target="_blank">
   <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>
@@ -15,7 +11,7 @@
 
 
 ### Glad to see you here!  
-I am a Software Engineer with a focus on the Front End. My background is in design and startup management, but when I started coding I found my calling. In 2021 I founded a development studio called [Conjure](https://conjure.company). We do the heavy lifting to make digital experiences feel effortless.  
+I am a Software Engineer with a focus on the Front End/ UX. My background is in design and startup management, but when I started coding I found my calling. In 2021 I founded a development studio called [Conjure](https://conjure.company). We do the heavy lifting to make digital experiences feel effortless.  
   
 
 <br/>  
@@ -34,14 +30,14 @@ I am a Software Engineer with a focus on the Front End. My background is in desi
 You Are Here • **Thich Nhat Hanh**<br/> 
 Better Than Before • **Gretchen Rubin**<br/>
 The Infinite Game • **Simon Sinek**<br/>
-Ask Your Developer • **Jeff Lawson**  
+Courage is Calling • **Ryan Holiday**  
   
 
 - ⚡ Fun fact: I'm pretty good at making pancakes 🥞
   
 
 - 🗣 Quotable: 
-  > *"The process of empowerment cannot be simplistically defined in accordance with our own particular class interests. We must learn to lift as we climb."* <br />**Angela Davis**
+  > *"All our life, so far as it has definite form, is but a mass of habits- practical, emotional, and intellectual- systematically organized for our weal or woe, and bearing us irresistibly toward our destiny."* <br />**William James**
 
 
 <br/>  
