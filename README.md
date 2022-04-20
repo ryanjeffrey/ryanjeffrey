@@ -23,7 +23,7 @@ I am a Software Engineer with a focus on the Front End/ UX. My background is in 
 <img src="https://media.giphy.com/media/g79am6uuZJKSc/giphy.gif" align="center" style="width: 80%" />
 </div>
 
-- 🧠 I’m currently learning [Three.js](https://threejs-journey.com) with **[Bruno Simon](https://github.com/brunosimon)** 
+- 🧠 I’m currently learning TypeScript 🥳
   
 
 - 📚 Reading:<br/>
