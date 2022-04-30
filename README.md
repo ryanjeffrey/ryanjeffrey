@@ -27,10 +27,10 @@ I am a Software Engineer with a focus on the Front End/ UX. My background is in 
   
 
 - 📚 Reading:<br/>
-You Are Here • **Thich Nhat Hanh**<br/> 
-Better Than Before • **Gretchen Rubin**<br/>
-The Infinite Game • **Simon Sinek**<br/>
-Courage is Calling • **Ryan Holiday**  
+High Performance Habits • **Brendon Burchard**<br/> 
+Nobody • **Marc Lamont Hill**<br/>
+Weird • **Olga Khazan**<br/>
+This is a Book • **Demetri Martin**  
   
 
 - ⚡ Fun fact: I'm pretty good at making pancakes 🥞
