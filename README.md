@@ -26,11 +26,11 @@ I am a Software Engineer with a focus on the Front End/ UX. My background is in 
 - 🧠 I’m currently learning TypeScript 🥳
   
 
-- 📚 Reading:
-High Performance Habits • **Brendon Burchard**
-Nobody • **Marc Lamont Hill**
-Weird • **Olga Khazan**
-This is a Book • **Demetri Martin**  
+- 📚 Reading:<br/>
+High Performance Habits • **Brendon Burchard**<br/>
+Nobody • **Marc Lamont Hill**<br/>
+Weird • **Olga Khazan**<br/>
+This is a Book • **Demetri Martin**
   
 
 - ⚡ Fun fact: I'm pretty good at making pancakes 🥞
