@@ -19,8 +19,8 @@ I am a Software Engineer with a focus on the Front End/ UX. My background is in 
 
 ## Rapidfire
 
-<div align="center">
-<img src="https://media.giphy.com/media/g79am6uuZJKSc/giphy.gif" align="center" style="width: 80%" />
+<div align="left">
+<img src="https://media.giphy.com/media/g79am6uuZJKSc/giphy.gif" align="center" style="width: 100%" />
 </div>
 
 - 🧠 I’m currently learning TypeScript 🥳
