@@ -27,10 +27,10 @@ I am a Software Engineer with a focus on the Front End/ UX. My background is in 
   
 
 - 📚 Reading:<br/>
-High Performance Habits • **Brendon Burchard**<br/>
-Nobody • **Marc Lamont Hill**<br/>
-Weird • **Olga Khazan**<br/>
-This is a Book • **Demetri Martin**
+Breath • **James Nestor**<br/>
+Power Vs. Force • **David R. Hawkins**<br/>
+The Weirdest People in the World • **Joseph Henrich**<br/>
+Until Further Notice, I Am Alive • **Tom Lubbock**
   
 
 - ⚡ Fun fact: I'm pretty good at making pancakes 🥞
