@@ -6,22 +6,12 @@
 <a href="mailto:ryan@conjure.company">
   <img src="https://img.shields.io/badge/email-EA4335?style=for-the-badge&logo=gmail&logoColor=fff">
 </a>
-  
 
-
-
-### Glad to see you here!  
+## About Me (he/him)
+ 
 I am a Software Engineer with a focus on the Front End/ UX. My background is in design and startup management, but when I started coding I found my calling. In 2021 I founded a development studio called [Conjure](https://conjure.company). We do the heavy lifting to make digital experiences feel effortless.  
-  
 
-<br/>  
-
-
-## Rapidfire
-
-<div align="left">
-<img src="https://media.giphy.com/media/g79am6uuZJKSc/giphy.gif" align="center" style="width: 100%" />
-</div>
+## What I'm Up To
 
 - 🧠 I’m currently learning TypeScript 🥳
   
