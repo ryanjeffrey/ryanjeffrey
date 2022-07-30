@@ -13,23 +13,25 @@ I am a Software Engineer with a focus on the Front End/ UX. My background is in 
 
 ## What I'm Up To
 
-- 🧠 I’m currently learning TypeScript 🥳
+- 🧠 I’m currently learning Advanced Full-Stack JavaScript 🚀
   
 
 - 📚 Reading:<br/>
-Breath • **James Nestor**<br/>
-Power Vs. Force • **David R. Hawkins**<br/>
-The Weirdest People in the World • **Joseph Henrich**<br/>
-Until Further Notice, I Am Alive • **Tom Lubbock**
+Year of Yes • **Shonda Rhimes**<br/>
+Atomic Habits • **James Clear**<br/>
+Digital Minimalism • **Cal Newport**<br/>
+Eloquent JavaScript • **Marijn Haverbeke**
   
 
-- ⚡ Fun fact: I'm pretty good at making pancakes 🥞
+- 🎵 Favorite Music when coding: [**Ali Farka Touré**](https://open.spotify.com/artist/3mNygoyrEKLgo6sx0MzwOL?si=dq-Qdv3uT0mltJ2bRNPE7g)
   
 
 - 🗣 Quotable: 
-  > *"All our life, so far as it has definite form, is but a mass of habits- practical, emotional, and intellectual- systematically organized for our weal or woe, and bearing us irresistibly toward our destiny."* <br />**William James**
-
-
+  > *"Don't ask what the world needs.<br/>
+    Ask what makes you come alive, and go do it.<br/>
+    Because what the world needs is people who have come alive."*<br />
+    **William James**
+    
 <br/>  
 
 
