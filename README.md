@@ -30,7 +30,7 @@ Eloquent JavaScript • **Marijn Haverbeke**
   > *"Don't ask what the world needs.<br/>
     Ask what makes you come alive, and go do it.<br/>
     Because what the world needs is people who have come alive."*<br />
-    **William James**
+    **Howard Thurman**
     
 <br/>  
 
