@@ -9,7 +9,7 @@
 
 ## About Me (he/him)
  
-I am a Software Engineer with a focus on the Front End/ UX. My background is in design and startup management, but when I started coding I found my calling. In 2021 I founded a development studio called [Conjure](https://conjure.company). We do the heavy lifting to make digital experiences feel effortless.  
+I am a Software Engineer with a focus on Full Stack Javascript and PostgreSQL. My background is in design and startup management, but when I started coding I found my calling. In 2021 I founded a development studio called [Conjure](https://conjure.company). We do the heavy lifting to make digital experiences feel effortless.  
 
 ## What I'm Up To
 
@@ -41,10 +41,12 @@ Eloquent JavaScript • **Marijn Haverbeke**
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="40" />
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" alt="TypeScript" height="40" />
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="40" />
-  <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="40" />
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="40" />
 <img style="margin: 10px" src="https://raw.githubusercontent.com/Thomas-George-T/Thomas-George-T/master/assets/aws.svg" alt="AWS" height="20" />
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gatsby.png" alt="Gatsby" height="40" />
+<img style="margin: 10px" src="https://user-images.githubusercontent.com/24623425/36042969-f87531d4-0d8a-11e8-9dee-e87ab8c6a9e3.png" alt="PostgreSQL" height="40" />
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/figma-icon.svg" alt="Figma" height="40" />
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/blender_community_badge_white.svg" alt="Blender" height="40" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/blender_community_badge_white.svg" alt="Blender" height="40" />
+
+
 </div>
 <br />
