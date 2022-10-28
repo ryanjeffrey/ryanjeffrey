@@ -17,9 +17,9 @@ I am a Software Engineer with a focus on Full Stack Javascript and PostgreSQL. M
   
 
 - 📚 Reading:<br/>
-Year of Yes • **Shonda Rhimes**<br/>
-Atomic Habits • **James Clear**<br/>
-Digital Minimalism • **Cal Newport**<br/>
+Discipline is Destiny • **Ryan Holiday**<br/>
+The Storyteller's Secret • **Carmine Gallo**<br/>
+Secrets of Sand Hill Road • **Scott Kupor**<br/>
 Eloquent JavaScript • **Marijn Haverbeke**
   
 
