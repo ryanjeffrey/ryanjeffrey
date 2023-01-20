@@ -17,9 +17,9 @@ I am a Software Engineer with a focus on Full Stack Javascript and PostgreSQL. M
   
 
 - 📚 Reading:<br/>
-Discipline is Destiny • **Ryan Holiday**<br/>
-The Storyteller's Secret • **Carmine Gallo**<br/>
-Secrets of Sand Hill Road • **Scott Kupor**<br/>
+The Wisdom of Insecurity • **Alan Watts**<br/>
+The Courage to be Disliked • **Ichiro Kishimi & Fumitake Koga**<br/>
+The Three Questions • **Don Miguel Ruiz**<br/>
 Eloquent JavaScript • **Marijn Haverbeke**
   
 
@@ -27,10 +27,10 @@ Eloquent JavaScript • **Marijn Haverbeke**
   
 
 - 🗣 Quotable: 
-  > *"Don't ask what the world needs.<br/>
-    Ask what makes you come alive, and go do it.<br/>
-    Because what the world needs is people who have come alive."*<br />
-    **Howard Thurman**
+  > *"Teach your tongue to say,<br/>
+    'I don't know,'<br/>
+    and ye shall progress."*<br />
+    **Maimonides**
     
 <br/>  
 
