@@ -9,12 +9,9 @@
 
 ## About Me (he/him)
  
-I am a Software Engineer with a focus on Full Stack Javascript and PostgreSQL. My background is in design and startup management, but when I started coding I found my calling. In 2021 I founded a development studio called [Conjure](https://conjure.company). We do the heavy lifting to make digital experiences feel effortless.  
+I am a Software Engineer with a focus on React, Node, and Postgres. My background is in design and startup management, but when I started coding I found my calling. In 2021 I founded a development studio called [Conjure](https://conjure.company). We do the heavy lifting to make digital experiences feel effortless.  
 
 ## What I'm Up To
-
-- 🧠 I’m currently learning Advanced Full-Stack JavaScript 🚀
-  
 
 - 📚 Reading:<br/>
 The Wisdom of Insecurity • **Alan Watts**<br/>
