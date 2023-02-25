@@ -1,6 +1,6 @@
 ## Hi, I'm Ryan!  
   
-<a href="https://linkedin.com/in/ryan-smith-219614230" target="_blank">
+<a href="https://linkedin.com/in/ryan-jeffrey-smith" target="_blank">
   <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>
 <a href="mailto:ryan@conjure.company">
